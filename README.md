@@ -28,7 +28,6 @@
 
     环形 `x`, `y`, `z` 推导 (`x`屏幕面的`x`方向， `y`屏幕面的`y`方向， `z` 垂直于屏幕面的方向)
     
-    <img src="/static/torus.png">
 ![](./static/torus.png)
 
     环形的z轴是相对屏幕对称的。
@@ -58,7 +57,7 @@
 
     ```
 
-    <img src="/static/cons.png">
+![](./static/cons.png)
 
     这里 `tana` 被作者替换成 `1.5 tan30`， 这里我们可以理解为`a` 为`30`，宽高比为`1.5`。
 
@@ -80,7 +79,7 @@
     
     ```
 
-    <img src="/static/vase.png">
+![](./static/vase.png)
 
 ## 结语
 Canvas 3D 坐标转换可谓基础，掌握好canvas坐标转换，配合图形的三维方程，可以让粒子做出美妙的运动，释放无穷尽的想象。
