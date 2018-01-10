@@ -11,7 +11,7 @@
 ## 重点 (绘图: drawFigure)
 对于环形制作，看看源码里的环形公式：
 
-```
+```(javascript)
     createTorus : function(){ 
         var theta = Math.random() * Math.PI * 2, 
         x = this.SCATTER_RADIUS + this.SCATTER_RADIUS / 6 * Math.cos(theta), 
