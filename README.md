@@ -29,6 +29,7 @@
     环形 `x`, `y`, `z` 推导 (`x`屏幕面的`x`方向， `y`屏幕面的`y`方向， `z` 垂直于屏幕面的方向)
     
     <img src="/static/torus.png">
+![](./static/torus.png)
 
     环形的z轴是相对屏幕对称的。
 
